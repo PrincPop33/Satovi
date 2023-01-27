@@ -9,7 +9,6 @@ body{
     background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
-
 }
 
 h1,
@@ -18,7 +17,7 @@ h2,
 .h2,
 .fw-bold {
     font-weight: 600 !important;
-    color:var(--dark) !important;
+    color:var(--dark) !important; 
 }
 
 h3,
@@ -50,7 +49,7 @@ h6,
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+color: var(--primary);
 }
 
 .navbar.sticky-top {
@@ -72,6 +71,7 @@ h6,
     padding: 10%;
     padding-top: 0px;
     justify-content: center;
+    
 }
 
 .BtnForm{
