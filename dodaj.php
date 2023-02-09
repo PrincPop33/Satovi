@@ -90,7 +90,7 @@ if(isset($_POST['sacuvaj'])){
         </div>
     </div>
 
- <!--    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 
     <script>
    
@@ -117,7 +117,7 @@ if(isset($_POST['sacuvaj'])){
 
         
     
-    </script> -->
+    </script>
     
 
     
